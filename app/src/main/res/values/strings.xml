@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jmz XMR</string>
+    <string name="add_server">Add Server</string>
+    <string name="editTextHint">https://example.com</string>
+    <string name="checkBoxText">Ignore SSL warnings (not recommended)</string>
+    <string name="no_server">No server added.</string>
+    <string name="timer">Timer</string>
+</resources>

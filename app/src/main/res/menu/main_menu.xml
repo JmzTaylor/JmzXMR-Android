@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/timer"
+        android:icon="@drawable/timer_icon"
+        android:title="@string/timer"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/add_server"
+        android:icon="@drawable/settings_icon"
+        android:title="@string/add_server"
+        app:showAsAction="ifRoom" />
+</menu>
